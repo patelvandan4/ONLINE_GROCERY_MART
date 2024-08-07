@@ -1,2 +1,1 @@
-# SEMESTER-4-PROJECT-CS
-IN THIS PROJECT I HAVE CREATED A WEBSITE USING PHP AND XAMPP SERVER NAMED "ONLINE GROCERY STATION"
+Online Grocery Station is a user-friendly web application developed using PHP, HTML, and CSS, designed to simplify your grocery shopping experience. Hosted locally using the XAMPP server, this platform allows users to browse, select, and purchase a wide variety of groceries from the comfort of their homes. The intuitive interface ensures a seamless shopping experience, with features like product categories, search functionality, and a dynamic shopping cart. Whether you need fresh produce, household essentials, or specialty items, Online Grocery Station offers a convenient and efficient way to manage your grocery needs
